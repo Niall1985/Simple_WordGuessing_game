@@ -5,7 +5,6 @@ words = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "hon
 
 key1 = random.choice(words).upper().strip()
 key = list(key1)
-print(key)
 print("You have 5 tries to guess the word")
 print(f"The word has {len(list(key1))} letters\n")
 
@@ -24,9 +23,9 @@ for i in range(0,5):
     else:
         for i in range (len(key)):
             if key[i] != guess_main[i]:
-                print(f"The letter at the {i+1} position is incorrect!")
+                print(f"Oops! The letter at the {i+1} position is incorrect.")
         print("\n")
-        # print("Try again")
+    
         continue
 print(f"Sorry, your 5 tries are over, the correct word was {key1}")
     
