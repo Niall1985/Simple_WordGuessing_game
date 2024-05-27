@@ -28,7 +28,7 @@ for i in range(0,5):
         print("\n")
         # print("Try again")
         continue
-print(f"Sorry, your 5 tries are iver, the correct word was {key1}")
+print(f"Sorry, your 5 tries are over, the correct word was {key1}")
     
     
     
