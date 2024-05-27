@@ -30,10 +30,6 @@ You can customize the list of words used in the game by modifying the `words` li
 
 - Python 3.x
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to customize this README further to suit your needs or add additional sections as necessary. Enjoy playing the word guessing game!
