@@ -1,7 +1,3 @@
-Here's a README for the word guessing game script:
-
----
-
 # Word Guessing Game
 
 This is a simple word guessing game implemented in Python. The program selects a random word from a predefined list and allows the user to guess the word. The user has 5 attempts to guess the word, and after each attempt, the program provides feedback on the correctness of the guesses.
